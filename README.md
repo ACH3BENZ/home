@@ -8,8 +8,8 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🚀 Full-Stack Developer | Laravel • React • PHP • JavaScript • Python<br>Passionate about turning ideas into scalable web applications and creating clean, efficient, and user-focused digital experiences. Continuously learning and building innovative solutions.</p>
-###
+<h4 align="left">🚀 Full-Stack Developer | Laravel • React • PHP • JavaScript • Python<br>Passionate about turning ideas into scalable web applications and creating clean, efficient, and user-focused digital experiences. Continuously learning and building innovative solutions.</h4>
+
 
 <h2 align="left">I code with</h2>
 
